@@ -1,0 +1,14 @@
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\bin\Debug\MrMohb.exe.config
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\bin\Debug\MrMohb.exe
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\bin\Debug\MrMohb.pdb
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.Properties.Resources.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.csproj.GenerateResource.Cache
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.exe
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.pdb
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.frmMain.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.Forms.frmManageEmp.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.Forms.frm_MDI.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.frm_Progres.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.csprojResolveAssemblyReference.cache
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.Forms.frmMain.resources
+D:\SaadEldaby\MrMohb\MrMohb\MrMohb\obj\Debug\MrMohb.Forms.frm_Progres.resources
